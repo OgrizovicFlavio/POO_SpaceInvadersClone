@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\Taller de Desarrollo de Videojuegos\\Final_FlavioOgrizovic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB74A2F-2132-47CA-9B90-E999856E75DA}|SpaceInvaders\\SpaceInvaders.csproj|d:\\visual studio projects\\taller de desarrollo de videojuegos\\final_flavioogrizovic\\spaceinvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB74A2F-2132-47CA-9B90-E999856E75DA}|SpaceInvaders\\SpaceInvaders.csproj|solutionrelative:spaceinvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\Taller de Desarrollo de Videojuegos\\Final_FlavioOgrizovic\\SpaceInvaders\\Program.cs",
+              "RelativeDocumentMoniker": "SpaceInvaders\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\Taller de Desarrollo de Videojuegos\\Final_FlavioOgrizovic\\SpaceInvaders\\Program.cs",
+              "RelativeToolTip": "SpaceInvaders\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwF0BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:39:09.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
